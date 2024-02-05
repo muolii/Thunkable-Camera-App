@@ -1,5 +1,4 @@
 {
-    "id": "4b6345a5-c33e-4f2e-a5d8-9219f234f5c0",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -41,22 +40,92 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
+        {
+            "type": "Image",
+            "translatedName": "Image",
+            "properties": {
+                "Picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Speaker_Icon.svg/1024px-Speaker_Icon.svg.png",
+                "resizeMode": "center",
+                "Height": 34,
+                "Width": 23,
+                "Visible": true,
+                "X": 272,
+                "Y": 22,
+                "RelativeX": 272,
+                "RelativeY": 22,
+                "ResizeMode": "STRETCH",
+                "style": {
+                    "marginTop": 0,
+                    "marginBottom": 0,
+                    "marginLeft": 0,
+                    "marginRight": 0,
+                    "paddingTop": 0,
+                    "paddingBottom": 0,
+                    "paddingLeft": 0,
+                    "paddingRight": 0,
+                    "shadowColor": "rgba(0, 0, 0, 0)",
+                    "shadowOpacity": 0,
+                    "scaledShadowOpacity": 0,
+                    "shadowRadius": 0,
+                    "shadowOffset": {
+                        "width": 0,
+                        "height": 0
+                    },
+                    "position": "absolute",
+                    "left": "45.786669921875%",
+                    "top": "2.97976011994003%",
+                    "display": "flex"
+                },
+                "capInsets": {},
+                "ParentId": "4b6345a5-c33e-4f2e-a5d8-9219f234f5c0",
+                "position": "absolute",
+                "edgeOffsets": 22.999999999999996
+            },
+            "children": [],
+            "id": "ab88d917-7365-407c-8736-bf04f3be6030",
+            "thunkableVersion": 443,
+            "name": "Image2"
+        },
+        {
+            "type": "Switch",
+            "translatedName": "Switch",
+            "reactType": "Switch",
+            "properties": {
+                "value": true,
+                "Visible": true,
+                "tintColor": "rgba(176, 176, 176, 100)",
+                "onTintColor": "rgba(245, 166, 35, 0.58)",
+                "thumbTintColor": "rgba(245, 166, 35, 1)",
+                "offThumbTintColor": "rgba(248, 249, 251, 100)",
+                "Height": 20,
+                "Width": 40,
+                "X": 305,
+                "Y": 29,
+                "RelativeX": 305,
+                "RelativeY": 29,
+                "ResizeMode": "STRETCH",
+                "ParentId": "4b6345a5-c33e-4f2e-a5d8-9219f234f5c0",
+                "position": "absolute",
+                "edgeOffsets": 29.999999999999996,
+                "style": {
+                    "position": "absolute",
+                    "left": "60.66667073567708%",
+                    "top": "88.88680659670165%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "fc72d672-c043-47ba-9264-30a4adaafce2",
+            "thunkableVersion": 443,
+            "name": "Switch1"
+        },
         {
             "type": "Label",
             "translatedName": "Label",
@@ -80,7 +149,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -488,7 +556,6 @@
                     "top": "12.743628185907047%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "4b6345a5-c33e-4f2e-a5d8-9219f234f5c0",
                 "position": "absolute",
                 "edgeOffsets": 52.80000114440918
@@ -499,6 +566,7 @@
             "name": "Image1"
         }
     ],
+    "id": "4b6345a5-c33e-4f2e-a5d8-9219f234f5c0",
     "thunkableVersion": 443,
     "name": "Photo Screen"
 }

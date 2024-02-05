@@ -8,21 +8,21 @@
                 }
             },
             "assets": {
-                "65b2a42958f5226d1ab40740": {
+                "65c11e37884b37e452f425e9": {
+                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
+                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
                     "externalStorageType": "GCS",
-                    "_id": "65b2a42958f5226d1ab40740",
+                    "externalName": "users/65ac5e250884704f2edf9018/projects/65c11e37884b37e452f425e6/assets/65c11e37884b37e452f425e9",
+                    "backendURI": "/project/65c11e37884b37e452f425e6/getasset/65c11e37884b37e452f425e9",
                     "size": "53612",
                     "mimetype": "image/png",
                     "encoding": "7bit",
-                    "originalname": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "backendURI": "/project/65b29f58ee16928a3ab23b8f/getasset/65b2a42958f5226d1ab40740",
-                    "name": "305soft-high-resolution-logo-black-on-transparent-background.png",
-                    "externalName": "users/65ac5e250884704f2edf9018/projects/65b29f58ee16928a3ab23b8f/assets/65b2a42958f5226d1ab40740",
+                    "_id": "65c11e37884b37e452f425e9",
                     "createdAt": "2024-01-25T18:10:49.185Z",
                     "updatedAt": "2024-01-25T18:10:49.185Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65ac5e250884704f2edf9018/projects/65b29f58ee16928a3ab23b8f/assets/65b2a42958f5226d1ab40740?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T173300Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=95f38cf44115dec18681f3ccf36d0efa7424b6554339ef3733a4e755ac90ed41471f841c8adabcd988af766bc733eb6f2a166c5f88aab77c2a72d0d581d5d3f096d3d0fa6c364792e26963b7d503a3b97f1832023a67f3436a9f32dfe2970d2158e1ea8ded61f509e339f215aa38523f0702798d8392d6c053b545d9f787e5c57556e120a9a847e24a40dfc6de397c28d5119c697534a843403087836d2c7371ebe4d84127c606bf68f0a90c5e753ebcf30a24e4ab1975e213ee6562d84ca520ad9979eb51e9f833b75469431360fc1fc91cf0b9fe2f900ab6d812e77af9c7be7d278512d6b5d5984344afa1672a644c42b4d9c61a92d681591bff82c0ca021b",
-                    "signedUrlExpirationTime": 1707327180671
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/65ac5e250884704f2edf9018/projects/65c11e37884b37e452f425e6/assets/65c11e37884b37e452f425e9?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20240205%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240205T175853Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=2b15a365cdfde8e1e3433926f27a30b164c41d8a894ef6c8fa13f4b3a1bc4efa347b3936c3d57c942a273304a763380560c06512ad7d8e98b91a67ee40fc5f5e85924785c9179b6f408bb690a6c1a46c0f3eac92cfe23ec3b57b4ec2c772b3a70f9a8fda6b1c29ac0eff5890c7ecd63ef35a3fe52410ef18d87bf1ed154dcb97e0f37253676043fd14ddaecf66f1e48de18d61972cbbbf3d0b30b2e92544589227635eff797a09c30afaa0d9403c3d7fb3934c4098951834318af805cbf3ca3a375a08efd9f9bf375be89ca6597df6d389ecb7b959b6af5dfa5f37236efaeab8ac7ba9dce95522d416030e1c7331412c80ae0b26550abec03192d4bebf1223c1",
+                    "signedUrlExpirationTime": 1707328733796
                 }
             },
             "backendUpgradeVersion": 24,
@@ -215,7 +215,13 @@
             "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
-            "variables": {},
+            "variables": {
+                "07fd2777-6313-49ba-a06c-2f48eeeebb51": {
+                    "scope": "APP",
+                    "name": "Switch",
+                    "screenId": "4b6345a5-c33e-4f2e-a5d8-9219f234f5c0"
+                }
+            },
             "defaultDesignerDevice": "PHONE",
             "defaultDesignerOrientation": "PORTRAIT",
             "schemaVersion": 2,
